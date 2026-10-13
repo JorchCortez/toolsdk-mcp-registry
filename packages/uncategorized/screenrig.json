@@ -13,13 +13,7 @@
       "url": "https://api.screenrig.ai/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "access:manage",
-          "screens",
-          "content",
-          "playlists",
-          "reports"
-        ]
+        "scopes": ["access:manage", "screens", "content", "playlists", "reports"]
       }
     }
   ]
